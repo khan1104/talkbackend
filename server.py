@@ -130,4 +130,4 @@ def censor_api():
     })
 
 if __name__ == '__main__':
-    app.run(debug=True,host="192.168.190.3",threaded=True)
+    app.run(debug=True,host="192.168.190.3",threaded=True) #replace with your actuall ip address
