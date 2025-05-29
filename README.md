@@ -49,40 +49,56 @@ TALK is a real-time, multilingual chat application designed to break language ba
 
 ## 🧑‍💻 Developed By
 
-**Khan Irfan** – A Computer Science Graduate, 
-Built solo with passion and focus on cross-cultural communication 🌍
+**Khan Irfan** – Computer Science Graduate & Passionate Developer.
+Designed and developed TALK independently to bridge language gaps and foster global conversations 🌐
 
 ---
 
 ## 📸 Screenshots
+<div align="center">
+<img src="https://github.com/user-attachments/assets/46ebc582-817c-4c72-8ff5-5c491d5585b2" width="220" height="450"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/6284b13f-8ae0-46d3-902d-9e69744a1455" width="220" height="450"/>
+</div>
 
-> *(Include UI screenshots here if you have them!)*
-
----
 
 ## 📦 Future Plans
 
-- 🌐 Web version (React.js)
-- 🔔 Push notifications
-- 🛡️ End-to-end encryption
-- 🎨 Themes & Dark Mode
-
----
-
-## 📲 Launch Info
-
-TALK is in its final stages and will soon be published on the **Google Play Store**. Stay tuned!
-
----
-
-## 📬 Feedback
-
-Have suggestions or found a bug?  
-Feel free to [contact me](mailto:your.email@example.com) or open an issue.
+- **Integration of Multimedia Support:** Allow users to share images, videos, and documents within the chat.
+- **Voice and Video Communication:** Introduce voice and video call features with real-time translation capabilities.
+- **Multi-User Chatrooms:** Introduce group chats with translation features for collaborative conversations.
 
 ---
 
 > **"TALK – Need to chat in Spanish? No worries! Just type, 
 and we’ll handle the rest!"**
+
+## 🛠️ Getting Started
+
+Follow these steps to run the TALK app locally on your device:
+
+### 📦 Prerequisites
+- Node.js and npm installed
+- Expo CLI installed globally (`npm install -g expo-cli`)
+- Android/iOS emulator **OR** Expo Go app installed on your physical device
+
+---
+
+### 🚀 Run the App
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/TALK.git
+
+# 2. Navigate to the project directory
+cd TALK
+
+# 3. Install the dependencies
+npm install
+
+# 4. Start the development server
+npx expo start
+```
+
+
 
 
