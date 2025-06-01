@@ -18,8 +18,11 @@ cd talkbackend
 # 3. Run the server file
 python server.py
 ```
-# Note
-### Install the given googletrans package
+# important
+## Install the given googletrans package
+```bash
+pip install googletrans==4.0.0rc1
+```
 
 
 
